@@ -7,7 +7,7 @@
 ## Setup
 
 - Install `K9s` via `scoop install k9s`
-- Clone this repository `git clone https://github.com/mezdelex/K9sConfig $HOME/scoop/persist/k9s`
+- Clone this repository `git clone https://github.com/mezdelex/K9sConfig $HOME/scoop/persist/k9s/config`
 - Run `k9s info` for additional paths
 
 ## Core
@@ -19,3 +19,4 @@
 | Skin             | n/a                                          | [gruvbox](https://github.com/mezdelex/K9sConfig/blob/main/skins/gruvbox.yaml) |
 
 ## Images
+![image](https://github.com/mezdelex/K9sConfig/assets/59997405/46a02f58-1598-4e02-a5a2-9d7a44d26d55)
