@@ -17,3 +17,7 @@
 | Aliases |                   n/a                   |       [keymaps](https://github.com/mezdelex/K9sConfig/blob/main/aliases.yaml)       |
 |   K9s   | [repo](https://github.com/derailed/k9s) |        [config](https://github.com/mezdelex/K9sConfig/blob/main/config.yaml)        |
 |  Skin   |                   n/a                   | [everforest](https://github.com/mezdelex/K9sConfig/blob/main/skins/everforest.yaml) |
+
+## Images
+
+![image](https://github.com/user-attachments/assets/75ef4a95-cef5-4b1b-9d5a-ad605165fca7)
