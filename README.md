@@ -1,7 +1,7 @@
 # K9s
 
 - OS: Windows 11
-- Terminal: Windows Terminal
+- Terminal: Wezterm
 - Shell: PowerShell Core
 
 ## Setup
